@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "desperate",
+  "base_artist": "TeddyLoid和Giga",
+  "createdAt": "2025-12-01T08:17:28.604168Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Desperate Man",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/01_Desperate_Man_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Desperate",
+      "artist": "Kurt Travis",
+      "has_synced": false,
+      "path": "select/02_Desperate_Kurt_Travis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "First Few Desperate Hours",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/03_First_Few_Desperate_Hours_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "So Desperate",
+      "artist": "The Mountain Goats",
+      "has_synced": false,
+      "path": "select/04_So_Desperate_The_Mountain_Goats.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Desperate",
+      "artist": "The Jon Spencer Blues Explosion",
+      "has_synced": false,
+      "path": "select/05_Desperate_The_Jon_Spencer_Blues_Explosion.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Desperate Dreams",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/06_Desperate_Dreams_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Desperate",
+      "artist": "Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/07_Desperate_Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Desperate Heart",
+      "artist": "Starship",
+      "has_synced": true,
+      "path": "select/08_Desperate_Heart_Starship.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Desperate Hours",
+      "artist": "Marc Almond",
+      "has_synced": true,
+      "path": "select/09_The_Desperate_Hours_Marc_Almond.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Desperate Hell",
+      "artist": "Christian Death",
+      "has_synced": true,
+      "path": "select/10_Desperate_Hell_Christian_Death.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Desperate Man",
+      "artist": "The Black Keys",
+      "has_synced": true,
+      "path": "select/11_The_Desperate_Man_The_Black_Keys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Desperate Andy",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/12_Desperate_Andy_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Desperate Andy",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/13_Desperate_Andy_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Desperate Kingdom Of Love",
+      "artist": "PJ Harvey",
+      "has_synced": true,
+      "path": "select/14_The_Desperate_Kingdom_Of_Love_PJ_Harvey.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Desperate Man",
+      "artist": "The Divine Comedy",
+      "has_synced": true,
+      "path": "select/15_A_Desperate_Man_The_Divine_Comedy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Desperate Night",
+      "artist": "TNT",
+      "has_synced": true,
+      "path": "select/16_Desperate_Night_TNT.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Desperate Balls",
+      "artist": "U.D.O.",
+      "has_synced": false,
+      "path": "select/17_Desperate_Balls_U.D.O..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Desperate Angel",
+      "artist": "X JAPAN",
+      "has_synced": false,
+      "path": "select/pl_01_Desperate_Angel_X_JAPAN.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "DESPERATE",
+      "artist": "X JAPAN",
+      "has_synced": false,
+      "path": "select/pl_02_DESPERATE_X_JAPAN.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Desperate Donor",
+      "artist": "X JAPAN",
+      "has_synced": false,
+      "path": "select/pl_03_Desperate_Donor_X_JAPAN.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Desperate",
+      "artist": "X JAPAN",
+      "has_synced": false,
+      "path": "select/pl_04_Desperate_X_JAPAN.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Desperate Night",
+      "artist": "X JAPAN",
+      "has_synced": false,
+      "path": "select/pl_05_Desperate_Night_X_JAPAN.txt"
+    }
+  ]
+}
